@@ -63,7 +63,7 @@ Linux CLI, shell scripting, SSH, and Git (2024)</li>
 </ul>
 </section>
 </div>
-<footer><p>&copy; 2024 Firstname Lastname | Built with HTML5 | Hosted on Ubuntu +
+<footer><p>&copy; 2024 vaishnavi Surwase | Built with HTML5 | Hosted on Ubuntu +
 Apache2</p></footer>
 </body>
 </html> 
