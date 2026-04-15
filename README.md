@@ -22,9 +22,9 @@ footer { text-align: center; padding: 20px; color: #888; font-size: 0.85em; }
 </head>
 <body>
 <header>
-<h1>Firstname Lastname</h1>
+<h1>vaishnavi Surwase </h1>
 <p>B.Tech E&TC | Walchand Institute of Technology, Solapur</p>
-<p>Email: student@example.com | Phone: +91-XXXXXXXXXX</p>
+<p>Email:suravasevaishnavi@gmail.com | Phone: +91-9309467211</p>
 </header>
 <div class="container">
 <section id="objective">
@@ -35,9 +35,9 @@ knowledge in Linux, networking, and software development.</p>
 <section id="education">
 <h2>Education</h2>
 <ul>
-<li><strong>B.Tech - E&TC</strong>, WIT Solapur (2022-2026)</li>
-<li><strong>HSC (12th)</strong> - Board Name, Year | Percentage: XX%</li>
-<li><strong>SSC (10th)</strong> - Board Name, Year | Percentage: XX%</li>
+<li><strong>B.Tech - E&TC</strong>, WIT Solapur (2023-2027)</li>
+<li><strong>HSC (12th)</strong> - maharastra state board  2023 | Percentage: 75%</li>
+<li><strong>SSC (10th)</strong> -maharastra state board  , 2020| Percentage: 93%</li>
 </ul>
 </section>
 <section id="skills">
